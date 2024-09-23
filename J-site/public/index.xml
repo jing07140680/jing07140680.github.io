@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J-site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on J-site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scalable AI infrastructure design and implementing.</title>
+      <link>https://example.org/post/2/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/post/2/</guid>
+      <description>&lt;h3 id=&#34;some-related-reading-materials&#34;&gt;Some Related Reading Materials&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://scalable-infrastructure.github.io/&#34;&gt;Course:Infrastructure for Advanced Analytics and Machine Learning&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/1duo/awesome-ai-infrastructures/&#34;&gt;Tech companies&amp;rsquo; AI infra&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ganguly-04.medium.com/airflow-spark-s3-stitching-it-all-together-1acbfba67e33&#34;&gt;Basic reading + hands on - Airflow+Spark+S3+Amazon EMR&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Zzdragon66/stock-streaming-project&#34;&gt;Open source AI infra project - stock-streaming-project&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;ai-infrastructure-workflow&#34;&gt;AI Infrastructure Workflow&lt;/h3&gt;&#xA;&lt;h4 id=&#34;1-workflow-overview&#34;&gt;1. Workflow Overview&lt;/h4&gt;&#xA;&lt;p&gt;The workflow involves several stages to manage data effectively from various sources to actionable insights. Key stages include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Extract (Data Source to Data Lake)&lt;/li&gt;&#xA;&lt;li&gt;Transform (Data Processing)&lt;/li&gt;&#xA;&lt;li&gt;Load to Data Warehouse&lt;/li&gt;&#xA;&lt;li&gt;Query &amp;amp; Analytics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;2-extract-data-source-to-data-lake&#34;&gt;2. Extract (Data Source to Data Lake)&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Sources&lt;/strong&gt;: Raw data is extracted from:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Current main AI/ML engineer directions and corresponding requirements</title>
+      <link>https://example.org/post/1/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/post/1/</guid>
+      <description>&lt;p&gt;Here are some current directions in AI/ML and their corresponding requirements:&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s your modified list with dashes added:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-narrative-videos-and-childrens-stories&#34;&gt;1. Narrative videos and children&amp;rsquo;s stories.&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Deep Learning:&lt;/strong&gt; Experience in neural networks, especially in applications related to text, audio, image, and video generation.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ensemble Models:&lt;/strong&gt; Familiarity with combining multiple AI models for improved performance across different content types (e.g., text-to-text, text-to-audio).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Natural Language Processing (NLP):&lt;/strong&gt; Skills in developing chatbots and recommendation systems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
