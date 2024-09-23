@@ -57,7 +57,7 @@ jobs:
           TZ: America/Los_Angeles
         run: |
           hugo \
-	    --source J-site\
+            --source J-site \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
