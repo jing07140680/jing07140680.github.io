@@ -2,9 +2,6 @@
 .DS_Store
 
 # Ignore build files
-/J-site/public
-/J-site/resources
-/resources
 
 
 # Ignore Hugo cache
